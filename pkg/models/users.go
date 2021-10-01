@@ -25,7 +25,8 @@ func (user *User) Register () *User{
 //get a user by the referral code
 // referral count method
 //register
-//send money
+//transaction
+	//transfer
 
 //referral method
 	//notification based on 2 conditions
