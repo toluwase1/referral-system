@@ -30,3 +30,5 @@ func (m *UserModel) GetAll() ([]*models.User, error) {
 
 	return books, nil
 }
+
+//get by id to identify the receiver
